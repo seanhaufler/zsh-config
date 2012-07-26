@@ -73,3 +73,6 @@ else
     fi
   fi
 fi
+
+# Custom configs
+source $ZSH_CUSTOM/example.zsh
